@@ -1,4 +1,4 @@
-# Desktop-Assistant features
+# Desktop-Assistant Features
 
 - Try implementing it by switch case
 - we can also add face recognisition so the comp says hello as soon as it sees our face.
